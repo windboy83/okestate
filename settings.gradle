@@ -1,0 +1,4 @@
+rootProject.name = 'okestate'
+include 'okestate-admin-api'
+include 'okestate-core'
+
